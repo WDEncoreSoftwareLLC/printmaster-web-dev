@@ -17,7 +17,7 @@
         <img src="/images/Box.png" width="146" height="183" alt="PrintMaster v7 Platinum Retail Box" />
       </div>
       <div>
-        <h6>Whether you are capturing a memory or adding a splash of creativity to your life, PrintMaster v7 Platinum has everything you need. Create greeting cards, banners, scrapbooks and more with our easy to use new features in PrintMaster v.7!</h6>
+        <h6>Whether you are capturing a memory or adding a splash of creativity to your life, PrintMaster v7 Platinum has everything you need. Create greeting cards, banners, scrapbooks and more with our easy to use new features in PrintMaster v7!</h6>
         <p><?php echo($topNav); ?></p>
       </div>
     </div>

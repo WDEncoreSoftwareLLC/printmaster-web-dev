@@ -11,7 +11,15 @@
     <div class="blockSection">
       <h1>See What's Great!</h1>
       <ul>
-        <li><a href="#Ready">Over 4,700 Ready-Made Templates</a></li>        <li><a href="#Commercial">Over 400 Royalty-Free, Commercial-Use  Templates</a></li>        <li><a href="#Images">Over 165,000 Images and Photographs</a></li>        <li><a href="#Avery">Avery Templates</a></li>        <li><a href="#TextTool">Extraordinary Text Tool and Effects</a></li>        <li><a href="#Calendar">Calendar Tool</a></li>        <li><a href="#Design">Easy-To-Use Design Tools</a></li>        <li><a href="#OneClick">One-Click Photo Editing</a></li>        <li><a href="#Scrapbook">Inspiring Scrapbook Design</a></li>
+        <li><a href="#Ready">Over 4,700 Ready-Made Templates</a></li>
+        <li><a href="#Commercial">Over 400 Royalty-Free, Commercial-Use  Templates</a></li>
+        <li><a href="#Images">Over 165,000 Images and Photographs</a></li>
+        <li><a href="#Avery">Avery Templates</a></li>
+        <li><a href="#TextTool">Extraordinary Text Tool and Effects</a></li>
+        <li><a href="#Calendar">Calendar Tool</a></li>
+        <li><a href="#Design">Easy-To-Use Design Tools</a></li>
+        <li><a href="#OneClick">One-Click Photo Editing</a></li>
+        <li><a href="#Scrapbook">Inspiring Scrapbook Design</a></li>
       </ul>
     </div>
   </div>
@@ -102,7 +110,11 @@
     </div>
     <div class="blockSection">
       <ul>
-        <li><span>Text to Shape</span></li>        <li><span>Advanced Color Matching</span></li>        <li><span>Drag and Drop Images</span></li>        <li><span>Slider Tools</span></li>        <li><span>Thumbnail Preview</span></li>
+        <li><span>Text to Shape</span></li>
+        <li><span>Advanced Color Matching</span></li>
+        <li><span>Drag and Drop Images</span></li>
+        <li><span>Slider Tools</span></li>
+        <li><span>Thumbnail Preview</span></li>
       </ul>
     </div>
   </div>
@@ -137,7 +149,7 @@
       </div>
     </div>
     <div class="blockSection">
-      <h1>One-Click Photo Editing</h1>
+      <h1>One-Click Photo Editing</h1>
       <p>Edit photos, add text and create stunning artistic effects.</p>
     </div>
   </div>
@@ -146,11 +158,11 @@
 <div id="Scrapbook" class="blockWrap">
   <div class="blockContent">
     <div class="blockSection">
-      <h1>Inspiring Scrapbook Designs</h1>
+      <h1>Inspiring Scrapbook Designs</h1>
       <p>Drop in borders, embellishments, backgrounds and more!</p>
     </div>
     <div class="blockSection">
-      <img src="/images/Scrapbook.png" width="659" height="342" class="pullright" alt="Inspiring Scrapbook Designs" />
+      <img src="/images/Scrapbook.png" width="659" height="342" class="pullright" alt="Inspiring Scrapbook Designs" />
     </div>
   </div>
 </div>

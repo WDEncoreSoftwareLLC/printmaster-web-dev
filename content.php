@@ -12,7 +12,13 @@
     <div class="blockSection">
       <h1>What's New in Version 7?</h1>
       <ul>
-        <li><a href="#Royalty">Over 10,000 Brand New, Royalty-Free, Commercial-Use Images</a></li>        <li><a href="#Interface">An All-New Sleek and Modern User Interface</a></li>        <li><a href="#Text">Powerful New Text Handling Capabilities</a></li>        <li><a href="#Address">New Address Book and Mailing Features</a></li>        <li><a href="#MultiPage">Master Project Page for Multi-Page Projects</a></li>        <li><a href="#Styles">New Photo Fonts, Paint Brushes and Styles</a></li>        <li><a href="#RightClick">New Right-Click Snap To Guideline, Center and Edge Options</a></li>
+        <li><a href="#Royalty">Over 10,000 Brand New, Royalty-Free, Commercial-Use Images</a></li>
+        <li><a href="#Interface">An All-New Sleek and Modern User Interface</a></li>
+        <li><a href="#Text">Powerful New Text Handling Capabilities</a></li>
+        <li><a href="#Address">New Address Book and Mailing Features</a></li>
+        <li><a href="#MultiPage">Master Project Page for Multi-Page Projects</a></li>
+        <li><a href="#Styles">New Photo Fonts, Paint Brushes and Styles</a></li>
+        <li><a href="#RightClick">New Right-Click Snap To Guideline, Center and Edge Options</a></li>
       </ul>
     </div>
   </div>
@@ -33,12 +39,26 @@
       <div class="col65">
         <div class="col50">
           <ul>
-            <li><span>Animals</span></li>            <li><span>Business</span></li>            <li><span>Celebrations</span></li>            <li><span>Crafts</span></li>            <li><span>Education</span></li>            <li><span>Entertainment</span></li>            <li><span>Flowers</span></li>            <li><span>Geography</span></li>
+            <li><span>Animals</span></li>
+            <li><span>Business</span></li>
+            <li><span>Celebrations</span></li>
+            <li><span>Crafts</span></li>
+            <li><span>Education</span></li>
+            <li><span>Entertainment</span></li>
+            <li><span>Flowers</span></li>
+            <li><span>Geography</span></li>
           </ul>
         </div>
         <div class="col50">
           <ul>
-            <li><span>Gardening</span></li>            <li><span>History &amp; Culture</span></li>            <li><span>Holidays</span></li>            <li><span>Nature</span></li>            <li><span>People</span></li>            <li><span>Professions</span></li>            <li><span>Recreation</span></li>            <li><span>And Many More!</span></li>
+            <li><span>Gardening</span></li>
+            <li><span>History &amp; Culture</span></li>
+            <li><span>Holidays</span></li>
+            <li><span>Nature</span></li>
+            <li><span>People</span></li>
+            <li><span>Professions</span></li>
+            <li><span>Recreation</span></li>
+            <li><span>And Many More!</span></li>
           </ul>
         </div>
       </div>
@@ -52,10 +72,10 @@
 <div id="Interface" class="blockWrap">
   <div class="blockContent">
     <div class="blockSection">
-      <img src="/images/Interface.png" width="401" height="280" alt="An All-New Sleek and Modern User Interface for Improved Usability" />
+      <img src="/images/Interface.png" width="401" height="280" alt="An All-New Sleek and Modern User Interface for Improved Usability" />
     </div>
     <div class="blockSection">
-      <h1>An All-New Sleek and Modern User Interface for Improved Usability</h1>
+      <h1>An All-New Sleek and Modern User Interface for Improved Usability</h1>
     </div>
   </div>
 </div>
@@ -75,10 +95,10 @@
 <div id="Address" class="blockWrap">
   <div class="blockContent">
     <div class="blockSection">
-      <img src="/images/Address.png" width="483" height="299" alt="New Address Book and Mailing Features" />
+      <img src="/images/Address.png" width="483" height="299" alt="New Address Book and Mailing Features" />
     </div>
     <div class="blockSection">
-      <h1>New Address Book and Mailing Features</h1>
+      <h1>New Address Book and Mailing Features</h1>
       <p>Manage your mailing lists for labels, envelopes, letters or any mail project. Import or enter your contacts and create separate contact groups for your home and business needs.</p>
     </div>
   </div>
@@ -99,7 +119,7 @@
 <div id="Styles" class="blockWrap">
   <div class="blockContent">
     <div class="blockSection">
-      <img src="/images/Styles.png" width="" height="" alt="New Photo Fonts, Paint Brushes and Styles" />
+      <img src="/images/Styles.png" width="" height="" alt="New Photo Fonts, Paint Brushes and Styles" />
     </div>
     <div class="blockSection">
       <h1>New Photo Fonts, Paint Brushes and Styles</h1>
@@ -111,10 +131,10 @@
 <div id="RightClick" class="blockWrap">
   <div class="blockContent">
     <div class="blockSection">
-      <img src="/images/RightClick.png" width="640" height="440" class="pullright" alt="New Right-Click Snap To Guideline, Center and Edge Options" />
+      <img src="/images/RightClick.png" width="640" height="440" class="pullright" alt="New Right-Click Snap To Guideline, Center and Edge Options" />
     </div>
     <div class="blockSection">
-      <h1>New Right-Click Snap To Guideline, Center and Edge Options</h1>
+      <h1>New Right-Click Snap To Guideline, Center and Edge Options</h1>
       <p>Place images and objects exactly where you want with precision.</p>
     </div>
   </div>
