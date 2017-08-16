@@ -147,6 +147,10 @@ img {
     font-size: 15px;
     line-height: 22px;
 }
+#Page ul ul {
+    margin-top: 0;
+    list-style-type: square;
+}
 .number {
     font-weight: 700;
     color: #0e416b;
@@ -190,12 +194,12 @@ img {
     background-color: #cde1ed;
 }
 #Toolkit .blockSection {
-    width: 555px;
-    margin: 65px 0 23px 0;
+    width: 630px;
+    margin: 25px 0 23px 0;
     vertical-align: bottom;
 }
 #Toolkit h1 {
-    margin-bottom: 17px;
+    margin-bottom: 25px;
 }
 #Toolkit h1 {
     font-weight: 600;
@@ -204,11 +208,11 @@ img {
     width: 155px;
 }
 #Toolkit h1 + div + div {
-    width: 400px;
+    width: 470px;
 }
 #Toolkit h1 + div,
 #Toolkit h1 + div + div {
-    vertical-align: middle;
+    vertical-align: top;
 }
 #Toolkit h1 + div + div h6 {
     margin-bottom: 22px;
@@ -238,63 +242,47 @@ img {
     margin-left: -3px;
 }
 #Toolkit img[src*="Box"] {
-    margin-left: -14px;
+    margin-left: -16px;
 }
 #Toolkit .blockSection + .blockSection {
-    width: 425px;
+    width: 343px;
     margin: 8px 0 0 0;
 }
 
 
 #Buy { 
-    background-color: #b3e1b3;
-    background-image: -webkit-linear-gradient(left, #b3e1b3 0%, #b3e1b3 50%, #0a60ac 50%, #0a60ac 100%);
-    background-image: -o-linear-gradient(right, #b3e1b3 0%, #b3e1b3 50%, #0a60ac 50%, #0a60ac 100%);
-    background-image: -moz-linear-gradient(right, #b3e1b3 0%, #b3e1b3 50%, #0a60ac 50%, #0a60ac 100%);
-    background-image: linear-gradient(to right, #b3e1b3 0%, #b3e1b3 50%, #0a60ac 50%, #0a60ac 100%);
+    background-color: #4d2fa7;
 }
 #Buy .blockSection {
     padding: 30px 0;
-    position: relative;
     width: 555px;
-    z-index: 2;
-    background-color: #b3e1b3;
-}
-#Buy .blockSection:after {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: -30px;
-    left: auto;
-    bottom: auto;
-    border-left: 30px solid #b3e1b3;
-    border-top: 48px solid transparent;
-    border-bottom: 48px solid transparent;
 }
 #Buy .blockSection + .blockSection {
     padding: 10px 0;
-    background-color: #0a60ac;
     width: 425px;
     z-index: 1;
     color: #ffffff;
-}
-#Buy .blockSection + .blockSection:after {
-    content: none;
+    background-image: url('/images/sidepanel.png');
+    background-repeat: no-repeat;
+    background-position: 10px center;
 }
 #Buy h3 {
-    color: #000000;
+    color: #ffffff;
     font-weight: 600;
 }
 #Buy h3 a {
-    color: #000000;
+    color: #ffffff;
+    background-color: #f58220;
     text-decoration: none;
+    padding: 2px 20px;
+    margin-left: 10px;
 }
 #Buy h3 a:hover {
     text-decoration: underline;
 }
 #Buy h5,
 #Buy h6 {
-    padding-left: 70px;
+    padding-left: 100px;
 }
 #Buy h5 {
     margin-bottom: 6px;
@@ -317,7 +305,7 @@ img {
     border: 5px solid #ffffff;
 }
 #New h1 {
-    font-size: 39px;
+    font-size: 33px;
 }
 #New a {
     color: #3d4247;

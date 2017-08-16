@@ -9,21 +9,26 @@
     <div id="New" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <?php
-                    //<img src="/images/Video.jpg" width="384" height="216" alt="What's New in Version 7?" />
-                ?>
                 <iframe width="450" height="300" src="https://www.youtube.com/embed/ECffqN5ghBY" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="blockSection">
-                <h1>What's New in Version 7?</h1>
+                <h1>What's New in PrintMaster v8?</h1>
+                
                 <ul>
-                    <li><a href="#Royalty">Over 10,000 Brand New, Royalty-Free, Commercial-Use Images</a></li>
-                    <li><a href="#Interface">An All-New Sleek and Modern User Interface</a></li>
-                    <li><a href="#Text">Powerful New Text Handling Capabilities</a></li>
-                    <li><a href="#Address">New Address Book and Mailing Features</a></li>
-                    <li><a href="#MultiPage">Master Project Page for Multi-Page Projects</a></li>
-                    <li><a href="#Styles">New Photo Fonts, Paint Brushes and Styles</a></li>
-                    <li><a href="#RightClick">New Right-Click Snap To Guideline, Center and Edge Options</a></li>
+                    <li><b>NEW</b> Simplified User Interface</li>
+                    <li><b>NEW</b> Project Wizard Easy Design From Start to Finish</li>
+                    <li><b>NEW</b> Social Media Templates
+                        <ul>
+                            <li>Including Facebook, YouTube, Twitter, Instagram, and More</li>
+                        </ul>
+                    </li>
+                    <li><b>NEW</b> Photo and Image Editing Tools to Add Special Effects</li>
+                    <li>Even <b>MORE Avery®</b> Templates – Ready-Made and Blank
+                        <ul>
+                            <li>Including Greeting Cards, Postcards, Banners, and More</li>
+                        </ul>
+                    </li>
+                    <li><b>NEW</b> Grid and Snap-to-Grip functionality that will make manual layout changes a snap</li>
                 </ul>
             </div>
         </div>

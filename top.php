@@ -1,10 +1,10 @@
 <div id="Top" class="blockWrap">
     <div class="blockContent">
         <div class="blockSection">
-            <a href="/"><img src="/images/logov8.png" class="logo" width="427" height="" alt="PrintMaster v8 Platinum" /></a>
+            <a href="/"><img src="/images/logov8.png" class="logo" width="437" height="108" alt="PrintMaster v8 Platinum" /></a>
         </div>
         <div class="blockSection">
-            <p><a href="http://www.broderbund.com/p-860-printmaster-v7-platinum.aspx" target="_blank">BUY</a>|<a href="/video-tutorials">VIDEO TUTORIALS</a>|<a href="http://pm7.printmaster.com/7/support/pm_help/Help.htm" target="_blank">USER GUIDE</a>|<a href="http://www.printmasterpacks.com/" target="_blank">TEMPLATES</a>|<a href="http://support.encore.com/" target="_blank">SUPPORT</a>|<a href="http://www.broderbund.com/c-4-contact-us.aspx" target="_blank">CONTACT US</a></p>
+            <p><a href="http://www.broderbund.com/p-993-printmaster-v8-platinum.aspx" target="_blank">BUY</a>|<a href="/video-tutorials">VIDEO TUTORIALS</a>|<a href="http://pm8.printmaster.com/8/support/pm_help/Help.htm" target="_blank">USER GUIDE</a>|<a href="http://www.printmasterpacks.com/" target="_blank">TEMPLATES</a>|<a href="http://support.encore.com/" target="_blank">SUPPORT</a>|<a href="http://www.broderbund.com/c-4-contact-us.aspx" target="_blank">CONTACT US</a></p>
         </div>
     </div>
 </div>
@@ -12,17 +12,17 @@
 <div id="Toolkit" class="blockWrap">
     <div class="blockContent">
         <div class="blockSection">
-            <h1>Create Incredible Print Projects in Minutes with the Ultimate Design Toolkit!</h1>
+            <h1>Create, Design and Print Projects in Minutes!</h1>
             <div>
-                <img src="/images/Box.png" width="146" height="183" alt="PrintMaster v7 Platinum Retail Box" />
+                <img src="/images/Box.png" width="153" height="191" alt="PrintMaster v8 Platinum Retail Box" />
             </div>
             <div>
-                <h6>Whether you are capturing a memory or adding a splash of creativity to your life, PrintMaster v7 Platinum has everything you need. Create greeting cards, banners, scrapbooks and more with our easy to use new features in PrintMaster v7!</h6>
+                <h6>Whether you are capturing a memory or adding a splash of creativity to your life, PrintMaster has everything you need and more. From greeting cards, to invitations, to business card designs, to scrapbooks and photobook, to banners, you can be sure our new and improved features make your imagination come alive like never-before. Get started in our design software with over 4,800 project templates, or start from scratch using over 10,000 royalty free images. Plan, create and share amazing custom-tailored designs today with the all-new PrintMaster Platinum v8.</h6>
                 <p><?php echo($topNav); ?></p>
             </div>
         </div>
         <div class="blockSection">
-            <img src="/images/Toolkit.png" width="425" height="434" alt="Create Incredible Print Projects in Minutes with the Ultimate Design Toolkit!" />
+            <img src="/images/Toolkit.png" width="343" height="407" alt="Create Incredible Print Projects in Minutes with the Ultimate Design Toolkit!" />
         </div>
     </div>
 </div>
@@ -30,7 +30,7 @@
 <div id="Buy" class="blockWrap">
     <div class="blockContent">
         <div class="blockSection">
-            <h3>RETAIL PRICE $39.99 | <a href="http://www.broderbund.com/p-860-printmaster-v7-platinum.aspx" target="_blank">BUY NOW!</a></h3>
+            <h3>RETAIL PRICE $39.99 <a href="http://www.broderbund.com/p-993-printmaster-v8-platinum.aspx" target="_blank">BUY NOW!</a></h3>
         </div>
         <div class="blockSection">
             <h5>Get More Templates!</h5>
