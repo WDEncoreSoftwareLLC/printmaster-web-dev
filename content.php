@@ -37,11 +37,11 @@
     <div id="Royalty" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <div class="col65">
-                    <h1>Over <span class="number">10,000</span> Brand New Royalty-Free, Commercial-Use Images</h1>
+                <div class="col70">
+                    <h1>Over <span class="number">5,500</span> Brand New Royalty-Free, Commercial-Use Images</h1>
                 </div>
-                <div class="col35">
-                    <img src="/images/RoyaltyFree01.png" width="160" height="125" alt="Over 10,000 Brand New Royalty-Free, Commercial-Use Images" />
+                <div class="col30">
+                    <img src="/images/RoyaltyFree01.png" width="334" height="278" alt="Over 5,500 Brand New Royalty-Free, Commercial-Use Images" />
                 </div>
             </div>
             <div class="blockSection">
@@ -73,7 +73,7 @@
                     </div>
                 </div>
                 <div class="col35">
-                    <img src="/images/RoyaltyFree02.png" width="215" height="181" alt="Choose from many different categories" />
+                    <img src="/images/RoyaltyFree02.png" width="173" height="232" alt="Choose from many different categories" />
                 </div>
             </div>
         </div>
@@ -82,46 +82,51 @@
     <div id="Interface" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <img src="/images/Interface.png" width="401" height="280" alt="An All-New Sleek and Modern User Interface for Improved Usability" />
+                <img src="/images/Interface.png" width="457" height="273" alt="An All-New Sleek and Modern User Interface for Improved Usability" />
             </div>
             <div class="blockSection">
-                <h1>An All-New Sleek and Modern User Interface for Improved Usability</h1>
-            </div>
-        </div>
-    </div>
-
-    <div id="Text" class="blockWrap">
-        <div class="blockContent">
-            <div class="blockSection">
-                <h1>Powerful New Text Handling Capabilities</h1>
-                <p>The new text flow and control feature allows text to overflow from one text box to another and the improved text wrap feature allows text to flow around images and clipart.</p>
-            </div>
-            <div class="blockSection">
-                <img src="/images/Text.png" width="485" height="291" alt="Powerful New Text Handling Capabilities" />
+                <h1>New Simplified User Interface and New Project Wizard Making the Design Process Easy From Start to Finish</h1>
             </div>
         </div>
     </div>
 
-    <div id="Address" class="blockWrap">
+    <div id="Social" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <img src="/images/Address.png" width="483" height="299" alt="New Address Book and Mailing Features" />
+                <h1>All New Social Media Templates</h1>
+                <p>Including Facebook, Twitter, YouTube, Instagram, Google+, Pinterest, and LinkedIn templates for posting and sharing with friends, family, and community.</p>
             </div>
             <div class="blockSection">
-                <h1>New Address Book and Mailing Features</h1>
-                <p>Manage your mailing lists for labels, envelopes, letters or any mail project. Import or enter your contacts and create separate contact groups for your home and business needs.</p>
+                <img src="/images/Social.png" width="489" height="304" alt="All New Social Media Templates" />
             </div>
         </div>
     </div>
 
-    <div id="MultiPage" class="blockWrap">
+    <div id="Designer" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <h1>Master Project Page for Multi-Page Projects</h1>
-                <p>Create a single master page design that can be automatically added to all other pages in your project.</p>
+                <img src="/images/Designer.png" width="509" height="323" alt="Be Your Own Personal Designer With Even More Avery Templates" />
             </div>
             <div class="blockSection">
-                <img src="/images/MultiPage.png" width="262" height="238" alt="Master Project Page for Multi-Page Projects" />
+                <h1>Be Your Own Personal Designer With Even More Avery Templates</h1>
+            </div>
+        </div>
+    </div>
+
+    <div id="Tools" class="blockWrap">
+        <div class="blockContent">
+            <h1>More Photo Editing Tools and Effects</h1>
+            <div class="blockSection">
+                <img src="/images/Brighten.png" width="" height="" alt="Brighten" />
+                <p>Brighten</p>
+            </div>
+            <div class="blockSection">
+                <img src="/images/Sepia.png" width="" height="" alt="Sepia" />
+                <p>Sepia</p>
+            </div>
+            <div class="blockSection">
+                <img src="/images/Sketch.png" width="" height="" alt="Sketch" />
+                <p>Sketch</p>
             </div>
         </div>
     </div>
@@ -134,18 +139,6 @@
             <div class="blockSection">
                 <h1>New Photo Fonts, Paint Brushes and Styles</h1>
                 <p>Select from multiple brush sizes, shapes, colors, opacity levels, and directions.</p>
-            </div>
-        </div>
-    </div>
-
-    <div id="RightClick" class="blockWrap">
-        <div class="blockContent">
-            <div class="blockSection">
-                <img src="/images/RightClick.png" width="640" height="440" class="pullright" alt="New Right-Click Snap To Guideline, Center and Edge Options" />
-            </div>
-            <div class="blockSection">
-                <h1>New Right-Click Snap To Guideline, Center and Edge Options</h1>
-                <p>Place images and objects exactly where you want with precision.</p>
             </div>
         </div>
     </div>

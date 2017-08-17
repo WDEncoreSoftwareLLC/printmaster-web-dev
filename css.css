@@ -45,6 +45,12 @@ img {
     border: 0;
     outline: 0;
 }
+.col30 {
+    width: 30%;
+}
+*+html .col30 {
+    width: 29.99999%;
+}
 .col33 {
     width: 33%;
 }
@@ -92,6 +98,12 @@ img {
 }
 *+html .col65 {
     width: 64.99999%;
+}
+.col70 {
+    width: 70%;
+}
+*+html .col70 {
+    width: 69.99999%;
 }
 .col100 {
     width: 100%;
@@ -153,7 +165,7 @@ img {
 }
 .number {
     font-weight: 700;
-    color: #0e416b;
+    /*color: #0e416b;*/
 }
 
 
@@ -320,46 +332,75 @@ img {
     background-color: #ffffff;
 }
 #Royalty .blockSection {
-    padding: 30px 0;
+    padding: 20px 0;
 }
-#Royalty .blockSection + .blockSection img {
+#Royalty .blockSection [class*="col"] {
+    vertical-align: top;
+}
+#Royalty .blockSection:first-child [class*="col"]:first-child {
+    position: relative;
+    z-index: 2;
+}
+#Royalty .blockSection:first-child img {
     float: right;
-    margin-bottom: -10px;
+}
+#Royalty .blockSection:first-child [class*="col"]:last-child::after {
+    content: '';
+    display: table;
+    height: 0;
+    width: 0;
+    clear: both;
+}
+#Royalty h5 {
+    margin-bottom: 15px;
 }
 
 
 #Interface {
-    background-color: #c0ddea;
+    background-color: #e7ffa2;
+}
+#Interface .blockContent {
+    padding: 20px 0;
 }
 #Interface h1 {
     padding-left: 27px;
+    font-size: 32px;
 }
 
 
-#Text {
+#Social {
     background-color: #ffffff;
 }
-#Text h1,
-#Text p {
+#Social h1,
+#Social p {
     padding-right: 60px;
 }
-#Text .blockSection {
+#Social .blockSection {
     padding: 15px 0;
 }
 
 
-#Address {
-    background-color: #d8c6eb;
+#Designer {
+    background-color: #a9f1fe;
 }
-#Address .blockSection {
+#Designer .blockSection {
     padding: 30px 0;
 }
-#Address h1,
-#Address p {
+#Designer h1,
+#Designer p {
     padding: 0 20px 0 60px;
 }
-#Address h1 {
+#Designer h1 {
     padding-right: 0;
+}
+
+
+#Tools {
+    background-color: #e5e6e9;
+}
+#Tools .blockSection {
+    width: 325px;
+    padding: 20px 0;
 }
 
 
@@ -390,18 +431,6 @@ img {
 #Styles h1,
 #Styles p {
     padding-left: 30px;
-}
-
-
-#RightClick {
-    background-color: #ffa8b2;
-}
-#RightClick h1,
-#RightClick p {
-    padding-left: 60px;
-}
-#RightClick p {
-    padding-right: 100px;
 }
 
 
