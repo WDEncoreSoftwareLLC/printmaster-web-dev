@@ -341,9 +341,6 @@ img {
     position: relative;
     z-index: 2;
 }
-#Royalty .blockSection:first-child img {
-    float: right;
-}
 #Royalty .blockSection:first-child [class*="col"]:last-child::after {
     content: '';
     display: table;
@@ -383,15 +380,17 @@ img {
 #Designer {
     background-color: #a9f1fe;
 }
+#Designer .blockSection:first-child {
+    width: 520px;
+}
+#Designer .blockSection:last-child {
+    width: 460px;
+}
 #Designer .blockSection {
     padding: 30px 0;
 }
-#Designer h1,
-#Designer p {
-    padding: 0 20px 0 60px;
-}
 #Designer h1 {
-    padding-right: 0;
+    padding: 0 0 40px 60px;
 }
 
 
@@ -401,6 +400,13 @@ img {
 #Tools .blockSection {
     width: 325px;
     padding: 20px 0;
+}
+#Tools h1 {
+    padding-top: 20px;
+}
+#Tools p {
+    margin-top: 10px;
+    font-size: 18px;
 }
 
 
@@ -419,17 +425,19 @@ img {
 }
 
 
-#Styles {
+#Grid {
     background-color: #ffffff;
 }
-#Styles .blockSection {
+#Grid .blockSection:first-child {
+    width: 350px;
+}
+#Grid .blockSection:last-child {
+    width: 630px;
+}
+#Grid .blockSection {
     padding: 30px 0;
 }
-#Styles .blockSection:first-child {
-    text-align: center;
-}
-#Styles h1,
-#Styles p {
+#Grid h1 {
     padding-left: 30px;
 }
 

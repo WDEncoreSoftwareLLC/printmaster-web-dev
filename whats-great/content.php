@@ -14,11 +14,11 @@
             <div class="blockSection">
                 <h1>See What's Great!</h1>
                 <ul>
-                    <li><a href="#Ready">Over 4,700 Ready-Made Templates</a></li>
-                    <li><a href="#Commercial">Over 400 Royalty-Free, Commercial-Use  Templates</a></li>
+                    <li><a href="#Ready">Over 4,800 Ready-Made Templates</a></li>
+                    <li><a href="#Commercial">Over 480 Royalty-Free, Commercial-Use Templates</a></li>
                     <li><a href="#Images">Over 165,000 Images and Photographs</a></li>
-                    <li><a href="#Avery">Avery Templates</a></li>
-                    <li><a href="#TextTool">Extraordinary Text Tool and Effects</a></li>
+                    <li><a href="#Avery"><b>Avery</b> Templates</a></li>
+                    <li><a href="#TextTool">Extraordinary Text Tools and Effects</a></li>
                     <li><a href="#Calendar">Calendar Tool</a></li>
                     <li><a href="#Design">Easy-To-Use Design Tools</a></li>
                     <li><a href="#OneClick">One-Click Photo Editing</a></li>
@@ -31,7 +31,7 @@
     <div id="Ready" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <h1>Over <span class="number">4,700</span> Ready-Made Templates</h1>
+                <h1>Over <span class="number">4,800</span> Ready-Made Templates</h1>
                 <p>PrintMaster Platinum includes easily searchable ready-made templates by professional designers to make your project quickly and easily.</p>
             </div>
             <div class="blockSection">
@@ -46,7 +46,7 @@
                 <img src="/images/Commercial.png" width="442" height="250" alt="Over 400 Royalty-Free Commercial-Use Templates" />
             </div>
             <div class="blockSection">
-                <h1>Over <span class="number">400</span> Royalty-Free Commercial-Use Templates</h1>
+                <h1>Over <span class="number">480</span> Royalty-Free Commercial-Use Templates</h1>
                 <p>Printmaster Platinum includes hundreds of templates for calendars, business cards, labels, newsletters, signs, envelopes, greeting cards and more, all of which can be used royalty-free for commercial purposes.</p>
             </div>
         </div>
@@ -56,7 +56,7 @@
         <div class="blockContent">
             <div class="blockSection">
                 <h1>Over <span class="number">165,000</span> Images and Photographs</h1>
-                <p>Add pizzazz to your project by adding incredible art and image elements.</p>
+                <p>Includes 165,000 High Quality Images royalty free images for personal and commercial use.</p>
             </div>
             <div class="blockSection">
                 <img src="/images/Images.png" width="672" height="280" class="pullright" alt="Over 165,000 Images and Photographs" />

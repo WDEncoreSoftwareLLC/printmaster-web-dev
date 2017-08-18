@@ -41,7 +41,7 @@
                     <h1>Over <span class="number">5,500</span> Brand New Royalty-Free, Commercial-Use Images</h1>
                 </div>
                 <div class="col30">
-                    <img src="/images/RoyaltyFree01.png" width="334" height="278" alt="Over 5,500 Brand New Royalty-Free, Commercial-Use Images" />
+                    <img src="/images/RoyaltyFree01.png" width="334" height="278" class="pullright" alt="Over 5,500 Brand New Royalty-Free, Commercial-Use Images" />
                 </div>
             </div>
             <div class="blockSection">
@@ -117,28 +117,27 @@
         <div class="blockContent">
             <h1>More Photo Editing Tools and Effects</h1>
             <div class="blockSection">
-                <img src="/images/Brighten.png" width="" height="" alt="Brighten" />
+                <img src="/images/Brighten.png" width="312" height="157" alt="Brighten" />
                 <p>Brighten</p>
             </div>
             <div class="blockSection">
-                <img src="/images/Sepia.png" width="" height="" alt="Sepia" />
+                <img src="/images/Sepia.png" width="312" height="157" alt="Sepia" />
                 <p>Sepia</p>
             </div>
             <div class="blockSection">
-                <img src="/images/Sketch.png" width="" height="" alt="Sketch" />
+                <img src="/images/Sketch.png" width="312" height="157" alt="Sketch" />
                 <p>Sketch</p>
             </div>
         </div>
     </div>
 
-    <div id="Styles" class="blockWrap">
+    <div id="Grid" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <img src="/images/Styles.png" width="" height="" alt="New Photo Fonts, Paint Brushes and Styles" />
+                <img src="/images/Grid.png" width="325" height="256" alt="Grid and Snap-to-Grid Functionalilty That Will Make Manual Layout Changes a Snap" />
             </div>
             <div class="blockSection">
-                <h1>New Photo Fonts, Paint Brushes and Styles</h1>
-                <p>Select from multiple brush sizes, shapes, colors, opacity levels, and directions.</p>
+                <h1>Grid and Snap-to-Grid Functionalilty That Will Make Manual Layout Changes a Snap</h1>
             </div>
         </div>
     </div>
