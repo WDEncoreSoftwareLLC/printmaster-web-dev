@@ -9,7 +9,7 @@
     <div id="New" class="blockWrap">
         <div class="blockContent">
             <div class="blockSection">
-                <iframe width="450" height="300" src="https://www.youtube.com/embed/ECffqN5ghBY" frameborder="0" allowfullscreen></iframe>
+                <iframe width="450" height="300" src="https://www.youtube.com/embed/TCNLH1PPpy0" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="blockSection">
                 <h1>What's New in PrintMaster v8?</h1>
