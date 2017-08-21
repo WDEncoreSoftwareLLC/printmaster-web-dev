@@ -45,6 +45,12 @@ img {
     border: 0;
     outline: 0;
 }
+.col25 {
+    width: 25%;
+}
+*+html .col25 {
+    width: 24.99999%;
+}
 .col30 {
     width: 30%;
 }
@@ -308,7 +314,7 @@ img {
 
 
 #New {
-    background-color: #e7eded;
+    background-color: #e6e7e8;
 }
 #New .blockSection {
     padding: 30px 0;
@@ -443,9 +449,12 @@ img {
 
 
 #Great {
-    background-color: #ecede7;
+    background-color: #e6e7e8;
 }
 #Great .blockSection {
+    vertical-align: bottom;
+}
+#Great .blockSection:last-child {
     padding: 30px 0;
 }
 #Great h1 { padding-left: 50px; }
@@ -462,23 +471,30 @@ img {
 #Ready {
     background-color: #ffffff;
 }
-#Ready h1 {
-    padding-right: 245px;
+#Ready .blockSection:first-child {
+    width: 370px;
 }
-#Ready p {
-    padding-right: 122px;
+#Ready .blockSection:last-child {
+    width: 610px;
+}
+#Ready h1 {
+    padding-right: 75px;
 }
 
 
 #Commercial {
-    background-color: #fafae1;
+    background-color: #c8edcc;
 }
-#Commercial .blockSection {
+#Commercial .blockSection:first-child {
+    width: 420px;
     padding: 15px 0;
 }
-#Commercial h1,
-#Commercial p {
-    margin-left: -30px;
+#Commercial .blockSection:last-child {
+    width: 560px;
+}
+#Commercial .blockSection h1,
+#Commercial .blockSection p {
+    padding-left: 30px;
 }
 
 
@@ -486,56 +502,72 @@ img {
     background-color: #ffffff;
 }
 #Images h1 {
-    padding-right: 55px;
+    padding-right: 75px;
 }
 #Images p {
-    padding-right: 200px;
+    padding-right: 100px;
 }
 
 
 #Avery {
-    background-color: #c6cceb;
+    background-color: #1b438b;
+}
+#Avery .blockContent {
+    text-align: center;
+    color: #fff;
 }
 #Avery .blockSection {
     padding: 15px 0;
 }
-#Avery h,
-#Avery p {
-    padding-left: 50px;
-    padding-right: 65px;
+#Avery h6 {
+    padding-top: 40px;
+    font-size: 16px;
 }
-#Avery sup {
-    vertical-align: text-top;
-    font-size: 40%;
+#Avery h6 img {
+    margin-right: 20px;
+    margin-bottom: 10px;
+    vertical-align: middle;
 }
-
 
 #TextTool {
-    background-color: #f4e5e5;
+    background-color: #e6e7e9;
+}
+#TextTool .blockSection:first-child {
+    width: 460px;
+}
+#TextTool .blockSection:last-child {
+    width: 520px;
+    text-align: right;
 }
 #TextTool .blockSection {
     padding: 15px 0;
 }
 #TextTool h1,
 #TextTool p {
-    padding-right: 120px;
+    padding-right: 90px;
 }
 
 
 #Calendar {
     background-color: #ffffff;
 }
+#Calendar .blockSection:first-child {
+    width: 640px;
+}
+#Calendar .blockSection:last-child {
+    width: 340px;
+}
 #Calendar .blockSection {
     padding: 15px 0;
 }
 #Calendar h1,
 #Calendar p {
-    padding-left: 220px;
+    padding-left: 70px;
 }
 
 
 #Design {
-    background-color: #e3f6dc;
+    background-color: #c4d8f1;
 }
 #Design .blockSection {
     padding: 30px 0;
@@ -550,10 +582,13 @@ img {
 #Design ul {
     padding-left: 285px;
 }
+#Design li {
+    margin-bottom: 5px;
+}
 
 
 #OneClick {
-    background-color: #ddd4e6;
+    background-color: #fec389;
 }
 #OneClick .blockSection {
     padding: 30px 0 10px 0;
@@ -570,6 +605,10 @@ img {
 #OneClick .col100 p {
     margin: 10px 0 20px 0;
 }
+#OneClick .blockSection:last-child h1,
+#OneClick .blockSection:last-child p {
+    padding-left: 20px;
+}
 
 
 #Scrapbook {
@@ -580,7 +619,7 @@ img {
 }
 #Scrapbook h1,
 #Scrapbook p {
-    padding-right: 220px;
+    padding-right: 200px;
 }
 
 
