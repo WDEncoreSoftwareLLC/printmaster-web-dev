@@ -8,119 +8,114 @@ $(function () {
         },
         playlist: [
             {
-                url: 'http://s3.printmaster.com/41260/Printmaster7-NewFeaturesTutorial.mp4',
-                title: 'PrintMaster v7 Platinum New Features',
-                dataurl: 'http://s3.printmaster.com/41260/Printmaster7-NewFeaturesTutorial'
+                url: 'http://go.encoreusa.com/1557',
+                title: 'Create from Scratch',
+                dataurl: 'http://go.encoreusa.com/1557'
             },
             {
-                url: 'http://s3.encore.com/PrintMaster/PrintMaster7-Administrator.mp4',
-                title: 'PrintMaster v7 Administrator',
-                dataurl: 'http://s3.encore.com/PrintMaster/PrintMaster7-Administrator'
+                url: 'http://go.encoreusa.com/1558',
+                title: 'Create a Ready-Made Project',
+                dataurl: 'http://go.encoreusa.com/1558'
             },
             {
-                url: 'http://s3.encore.com/b2c/videos/printmaster/PrintMaster6-Platinum-New-Features.mp4',
-                title: 'PrintMaster v6 Platinum New Features',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PrintMaster6-Platinum-New-Features'
+                url: 'http://go.encoreusa.com/1559',
+                title: 'Browse Ready-Made Projects',
+                dataurl: 'http://go.encoreusa.com/1559'
             },
             {
-                url: 'http://s3.printmaster.com/41260/PrintMaster-Platinum-v7-Mail-Merge-Feature.mp4',
-                title: 'How to Use Mail Merge and Address Book',
-                dataurl: 'http://s3.printmaster.com/41260/PrintMaster-Platinum-v7-Mail-Merge-Feature'
+                url: 'http://go.encoreusa.com/1561',
+                title: 'Open a Recent Project',
+                dataurl: 'http://go.encoreusa.com/1561'
             },
             {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-AveryTemplates.mp4',
-                title: 'Avery Templates',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-AveryTemplates'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-Calendar.mp4',
-                title: 'Building Calendars',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-Calendar'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-CheckProjects.mp4',
-                title: 'Checking Your Projects',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-CheckProjects'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-CreateScratch.mp4',
-                title: 'Creating From Scratch',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-CreateScratch'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-WorkingHeadlines.mp4',
-                title: 'Creating Headlines',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-WorkingHeadlines'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-PrintProjects.mp4',
-                title: 'Printing Projects',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-PrintProjects'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-ProfessionalPrinting.mp4',
-                title: 'Professional Printing',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-ProfessionalPrinting'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-TipsTricks.mp4',
-                title: 'Project Tips and Tricks',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-TipsTricks'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-ChoosingReadyMade.mp4',
-                title: 'Ready-Made Templates',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-ChoosingReadyMade'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-OpenRecent.mp4',
-                title: 'Opening Recent Projects',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-OpenRecent'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-SavingProjects_1.mp4',
+                url: 'http://go.encoreusa.com/1562',
                 title: 'Saving Projects',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-SavingProjects_1'
+                dataurl: 'http://go.encoreusa.com/1562'
             },
             {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-SettingPreferences.mp4',
+                url: 'http://go.encoreusa.com/1563',
                 title: 'Setting Preferences',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-SettingPreferences'
+                dataurl: 'http://go.encoreusa.com/1563'
             },
             {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-PrintmasterPacks.mp4',
-                title: 'Template Packs',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-PrintmasterPacks'
+                url: 'http://go.encoreusa.com/1564',
+                title: 'Printing Projects',
+                dataurl: 'http://go.encoreusa.com/1564'
             },
             {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-Backgrounds.mp4',
+                url: 'http://go.encoreusa.com/1565',
+                title: 'Professional Printing',
+                dataurl: 'http://go.encoreusa.com/1565'
+            },
+            {
+                url: 'http://go.encoreusa.com/1566',
+                title: 'Avery Templates',
+                dataurl: 'http://go.encoreusa.com/1566'
+            },
+            {
+                url: 'http://go.encoreusa.com/1567',
                 title: 'Working with Backgrounds',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-Backgrounds'
+                dataurl: 'http://go.encoreusa.com/1567'
             },
             {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-Clipart.mp4',
-                title: 'Working with Clip Art',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-Clipart'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-WorkingColors.mp4',
-                title: 'Working with Colors',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-WorkingColors'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-ShapesAndLines.mp4',
-                title: 'Working with Shapes and Lines',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-ShapesAndLines'
-            },
-            {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-WorkingPhotos.mp4',
+                url: 'http://go.encoreusa.com/1568',
                 title: 'Working with Photos',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-WorkingPhotos'
+                dataurl: 'http://go.encoreusa.com/1568'
             },
             {
-                url: 'http://s3.encore.com/PrintMaster/PM2012-tutorial-WorkingText.mp4',
+                url: 'http://go.encoreusa.com/1571',
                 title: 'Working with Text',
-                dataurl: 'http://s3.encore.com/b2c/videos/printmaster/PM2012-tutorial-WorkingText'
+                dataurl: 'http://go.encoreusa.com/1571'
+            },
+            {
+                url: 'http://go.encoreusa.com/1569',
+                title: 'Working with Headlines',
+                dataurl: 'http://go.encoreusa.com/1569'
+            },
+            {
+                url: 'http://go.encoreusa.com/1570',
+                title: 'Working with Calendars',
+                dataurl: 'http://go.encoreusa.com/1570'
+            },
+            {
+                url: 'http://go.encoreusa.com/1556',
+                title: 'Working with Clip Art',
+                dataurl: 'http://go.encoreusa.com/1556'
+            },
+            {
+                url: 'http://go.encoreusa.com/1572',
+                title: 'Working with Shapes and Lines',
+                dataurl: 'http://go.encoreusa.com/1572'
+            },
+            {
+                url: 'http://go.encoreusa.com/1573',
+                title: 'Working with Colors',
+                dataurl: 'http://go.encoreusa.com/1573'
+            },
+            {
+                url: 'http://go.encoreusa.com/1560',
+                title: 'Using Color Pop',
+                dataurl: 'http://go.encoreusa.com/1560'
+            },
+            {
+                url: 'http://go.encoreusa.com/1574',
+                title: 'Using Mail Merge and Address Book',
+                dataurl: 'http://go.encoreusa.com/1574'
+            },
+            {
+                url: 'http://go.encoreusa.com/1575',
+                title: 'Checking Your Projects',
+                dataurl: 'http://go.encoreusa.com/1575'
+            },
+            {
+                url: 'http://go.encoreusa.com/1576',
+                title: 'Project Tips and Tricks',
+                dataurl: 'http://go.encoreusa.com/1576'
+            },
+            {
+                url: 'http://go.encoreusa.com/1577',
+                title: 'PrintMaster Packs',
+                dataurl: 'http://go.encoreusa.com/1577'
             }
         ],
         plugins: {
@@ -136,21 +131,11 @@ function startVideoList() {
         var ref = $(this).attr('data-video');
         ref = '' + ref;
         setNewVideo(ref);
-        $('#VideoPlayer').load();
-        var myVideo = document.getElementById('VideoPlayer');
-        myVideo.play();
+        $('#VideoPlayer').attr('src', ref);
     });
-    var vid1 = $('.clips:first ul li span').attr('data-video');
-    vid1 = '' + vid1;
-    $('#MP4').attr('src', vid1 + '.mp4');
-    $('#OGV').attr('src', vid1 + '.ogg');
-    $('#WEBM').attr('src', vid1 + '.webm');
-    $('#VideoPlayer').load();
 }
 function setNewVideo(ref) {
-    $('#MP4').attr('src', ref + '.mp4');
-    $('#OGV').attr('src', ref + '.ogg');
-    $('#WEBM').attr('src', ref + '.webm');
+    $('#VideoPlayer').attr('src', ref);
 }
 setTimeout(function () { startVideoList(); }, 500);
 function scrollToVideos() {

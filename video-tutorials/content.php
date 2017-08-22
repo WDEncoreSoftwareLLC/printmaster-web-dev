@@ -13,12 +13,8 @@
             <div class="blockSection">
                 <h1>Video Tutorials</h1>
                 <h5>Click a link to the left to select a video</h5>
-                <video id="VideoPlayer" width="655" height="437" controls="">
-                    <source id="MP4" type="video/mp4" />
-                    <source id="OGV" type="video/ogg" />
-                    <source id="WEBM" type="video/webm" />
-                    <a class="player plain" id="player1"></a>
-                </video>
+                <iframe width="655" height="437" id="VideoPlayer" src="https://www.youtube.com/embed/CiBY9PY_-jU?rel=0" frameborder="0" allowfullscreen></iframe>
+                <a class="player plain" id="player1"></a>
             </div>
         </div>
     </div>

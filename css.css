@@ -640,7 +640,7 @@ img {
 #player1 {
     width: 655px;
     height: 437px;
-    display: block;
+    display: none;
 }
 #Videos ul {
     margin:0;
