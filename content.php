@@ -16,7 +16,7 @@
                 
                 <ul>
                     <li><b>NEW</b> Simplified User Interface</li>
-                    <li><b>NEW</b> Project Wizard Easy Design From Start to Finish</li>
+                    <li><b>NEW</b> Project Wizard - Easy Design From Start to Finish</li>
                     <li><b>NEW</b> Social Media Templates
                         <ul>
                             <li>Including Facebook, YouTube, Twitter, Instagram, and More</li>

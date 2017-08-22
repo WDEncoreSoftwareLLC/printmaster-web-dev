@@ -17,7 +17,7 @@
                 <img src="/images/Box.png" width="153" height="191" alt="PrintMaster v8 Platinum Retail Box" />
             </div>
             <div>
-                <h6>Whether you are capturing a memory or adding a splash of creativity to your life, PrintMaster has everything you need and more. From greeting cards, to invitations, to business card designs, to scrapbooks and photobook, to banners, you can be sure our new and improved features make your imagination come alive like never-before. Get started in our design software with over 4,800 project templates, or start from scratch using over 10,000 royalty free images. Plan, create and share amazing custom-tailored designs today with the all-new PrintMaster Platinum v8.</h6>
+                <h6>Whether you are capturing a memory or adding a splash of creativity to your life, PrintMaster has everything you need and more. From greeting cards, to invitations, to business card designs, to scrapbooks and photobooks, to banners, you can be sure our new and improved features make your imagination come alive like never-before. Get started in our design software with over 4,800 project templates, or start from scratch using over 10,000 royalty free images. Plan, create and share amazing custom-tailored designs today with the all-new PrintMaster Platinum v8.</h6>
                 <p><?php echo($topNav); ?></p>
             </div>
         </div>

@@ -56,7 +56,7 @@
         <div class="blockContent">
             <div class="blockSection">
                 <h1>Over <span class="number">165,000</span> Images and Photographs</h1>
-                <p>Includes 165,000 High Quality Images royalty free images for personal and commercial use.</p>
+                <p>Includes 165,000 High Quality royalty free images for personal and commercial use.</p>
             </div>
             <div class="blockSection">
                 <img src="/images/Images.png" width="567" height="355" class="pullright" alt="Over 165,000 Images and Photographs" />
@@ -125,7 +125,7 @@
             </div>
             <div class="blockSection">
                 <h1>Calendar Tool</h1>
-                <p>Add images to appointments with personal annual and monthly calendars that make great gifts!</p>
+                <p>Personalize and customize annual and monthly calendars for yourself or to give as a gift.</p>
             </div>
         </div>
     </div>
@@ -135,7 +135,7 @@
             <div class="blockSection">
                 <div class="col55">
                     <h1>Easy-to-Use Design Tools</h1>
-                    <p>Drag-and-drop photos, text and design elements with incredible ease!</p>
+                    <p>Drag &amp; drop photos, manipulate text and design elements with ease.</p>
                 </div>
                 <div class="col45">
                     <img src="/images/Design.png" width="477" height="323" alt="Easy-to-Use Design Tools" />
