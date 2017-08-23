@@ -223,10 +223,10 @@ img {
     font-weight: 600;
 }
 #Toolkit h1 + div {
-    width: 155px;
+    width: 215px;
 }
 #Toolkit h1 + div + div {
-    width: 470px;
+    width: 415px;
 }
 #Toolkit h1 + div,
 #Toolkit h1 + div + div {
@@ -258,9 +258,6 @@ img {
 }
 #Toolkit h1 + div + div p a:first-child {
     margin-left: -3px;
-}
-#Toolkit img[src*="Box"] {
-    margin-left: -16px;
 }
 #Toolkit .blockSection + .blockSection {
     width: 343px;
